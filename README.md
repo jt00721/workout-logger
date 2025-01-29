@@ -1,7 +1,7 @@
 # workout-logger
 A simple web app using Go that allows users to log, view, and analyze workouts. Integrate a database (SQLite or PostgreSQL) for backend storage and create a basic user interface using HTML/CSS.
 
-Plan of the Week:
+## Plan of the Week:
 
 Day 1: Define Scope and Setup
 
@@ -106,4 +106,20 @@ Day 7: Wrap-Up and Content Creation
         Record a short demo showing the web app’s features.
         Write a blog-style README.md explaining the app and its functionality.
         Share your progress on social media, highlighting what you learned and the challenges you overcame.
+
+
+## Core Features
+
+1. Add workouts
+    - Exercise name
+    - Sets
+    - Reps
+    - Weight
+    - Duration
+
+2. View workout logs in a table or dashboard.
+
+3. Update workouts
+
+4. Delete workouts
 
